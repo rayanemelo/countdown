@@ -1,5 +1,5 @@
 
-![Countdown view](https://user-images.githubusercontent.com/56088329/145502915-95dc38d1-e71e-4e1d-a9f4-a010eb547643.png)
+ ![image (1)](https://github.com/rayanemelo/countdown/assets/80798717/686769bb-ea69-405a-8964-625b7c6219ff)
 
 # Countdown Shelf
 
