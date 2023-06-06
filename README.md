@@ -6,8 +6,8 @@
 The Countdown Shelf app is responsible for providing render a countdown timer together with a shelf.
 
 ## Configuration
-1. Install the app running `vtex install corebizcomponents.countdown-shelf@0.x` in the workspace that you’ll develop it, when it’s ready for deploy, you can install it in production workspace.
-2. Add the store vendor `corebizcomponents.countdown-shelf@0.x` as a peerDependency within the manifest
+1. Install the app running `vtex install corebiz.countdown-shelf@0.x` in the workspace that you’ll develop it, when it’s ready for deploy, you can install it in production workspace.
+2. Add the store vendor `corebiz.countdown-shelf@0.x` as a peerDependency within the manifest
 3. Add `count-down-shelf` block to your block files, in the place you want to show the shelf.
 
 Now, you can import any of the exported components and hooks from the app. Here's an example of a component that render's the name of the product whose data is stored in the nearest `ProductContext`:
